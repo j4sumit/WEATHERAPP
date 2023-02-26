@@ -1,0 +1,2 @@
+Created React weather app with search functionality by using OpenWeatherMap API
+It will show the weather details of your current location. You can search any location by name of the country or city & get the data of that place.
